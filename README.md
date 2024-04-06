@@ -1,5 +1,6 @@
 ### Hi there, I'm Rushi Patel! 👋
 [![Website Badge](https://img.shields.io/badge/-Rushi's_Website-4A4A4A?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rushipatel.life)](https://rushipatel.life)
+
 ![Rushi's Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRrc2k3enIwbmxhN25kZnl5endyaGIzZWx6cHVnbGVkenlsMGhiaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0JMrPWRQkTeg3jjO/giphy.gif)
 
 ### Welcome to my GitHub profile!
