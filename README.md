@@ -1,6 +1,6 @@
 ### Hi there, I'm Rushi Patel! 👋
 
-![Rushi's Banner](https://via.placeholder.com/1200x300.png?text=Rushi+Patel+-+Software+Developer+and+Co-founder+of+Marsha-AI)
+![Rushi's Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhhcXp1MmU3dTN0ZnJjb2x2OHV6NjR1c3FndmV5dXJicGw5c25wdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)
 
 I am drawn to the art of creation, which manifests in my role as a software developer. I possess an aptitude for organization and a keen sense of prioritizing my time and efforts—skills that have also propelled me into managing projects. Welcome to my GitHub profile!
 
@@ -21,35 +21,18 @@ I am drawn to the art of creation, which manifests in my role as a software deve
 - The impact I'm having at Explorator Labs.
 
 #### 📫 How to reach me:
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rushi-patel) or drop me an email at rushipatel2904@gmail.com!
-
-#### 😄 Pronouns: He/Him
-
-#### ⚡ Fun fact:
-- I started learning Ruby on Rails in November 2021 and have since managed mid-scale projects using the framework!
-
----
-
-### My Work Highlights
-
-![GIF of Code](https://via.placeholder.com/800x400.gif?text=Code+in+Action)
-
-**Explorator Labs**  
-*Software Developer II*  
-I've been part of the Explorator Labs team since Feb 2022, where I've grown from writing test cases to managing entire projects. My journey has been filled with learning and leading, especially in Ruby on Rails and React.js.
-
-**Marsha-AI**  
-*Co-founder*  
-In my entrepreneurial venture, I co-founded Marsha-AI with the vision to reduce the time and money spent on resolving issue tickets. I led product development from ideation to launch, steering the team towards our shared goals.
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rushipatel-/) or drop me an email at rushipatel2904@gmail.com!
 
 ---
 
 ### Let's Connect!
 
-Feel free to reach out if you're interested in my work, looking for collaboration, or just want to have a chat about technology and innovation.
+Feel free to reach out if you're interested in my work, looking for collaboration, or just want to have a chat.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Rushi_Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushi-patel)](https://www.linkedin.com/in/rushi-patel)
+[![LinkedIn Badge](https://img.shields.io/badge/-Rushi_Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushi-patel)](https://www.linkedin.com/in/rushipatel-/)
 
 ![Rushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patel-rushi&show_icons=true)
+
+[![Website Badge](https://img.shields.io/badge/-Rushi's_Website-4A4A4A?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rushipatel.life)](https://rushipatel.life)
 
 ---
