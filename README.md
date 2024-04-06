@@ -1,6 +1,6 @@
 ### Hi there, I'm Rushi Patel! 👋
 
-![Rushi's Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhhcXp1MmU3dTN0ZnJjb2x2OHV6NjR1c3FndmV5dXJicGw5c25wdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)
+![Rushi's Banner](https://media.giphy.com/media/vZFZFVYQvtdidWZltF/giphy.gif)
 
 I am drawn to the art of creation, which manifests in my role as a software developer. I possess an aptitude for organization and a keen sense of prioritizing my time and efforts—skills that have also propelled me into managing projects. Welcome to my GitHub profile!
 
@@ -30,8 +30,6 @@ I am drawn to the art of creation, which manifests in my role as a software deve
 Feel free to reach out if you're interested in my work, looking for collaboration, or just want to have a chat.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Rushi_Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rushi-patel)](https://www.linkedin.com/in/rushipatel-/)
-
-![Rushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patel-rushi&show_icons=true)
 
 [![Website Badge](https://img.shields.io/badge/-Rushi's_Website-4A4A4A?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rushipatel.life)](https://rushipatel.life)
 
