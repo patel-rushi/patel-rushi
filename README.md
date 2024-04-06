@@ -1,6 +1,6 @@
 ### Hi there, I'm Rushi Patel! 👋
 
-![Rushi's Banner](https://media.giphy.com/media/vZFZFVYQvtdidWZltF/giphy.gif)
+![Rushi's Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRrc2k3enIwbmxhN25kZnl5endyaGIzZWx6cHVnbGVkenlsMGhiaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0JMrPWRQkTeg3jjO/giphy.gif)
 
 I am drawn to the art of creation, which manifests in my role as a software developer. I possess an aptitude for organization and a keen sense of prioritizing my time and efforts—skills that have also propelled me into managing projects. Welcome to my GitHub profile!
 
